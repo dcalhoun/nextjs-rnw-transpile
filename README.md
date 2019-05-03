@@ -1,6 +1,6 @@
 # nextjs-rnw-transpile
 
-A test case for transpiling modules (specifically [`react-native-web`](https://github.com/necolas/react-native-web)) with Next.js 8.
+A test case for transpiling modules (specifically [`react-native-web`](https://github.com/necolas/react-native-web)) with Next.js 8. See the [related issue thread](https://spectrum.chat/next-js/general/next-js-8-and-rnw-transpilation-issues~d414072e-1590-4bde-9a32-0cbdedf0c199).
 
 ## Project Setup
 
