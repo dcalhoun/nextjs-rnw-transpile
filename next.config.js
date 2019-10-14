@@ -9,6 +9,8 @@ module.exports = {
       "react-native$": "react-native-web"
     };
 
+    defaultLoaders.babel.options.plugins = ["react-native-web"];
+
     // Compile packages using ES modules
     config.resolve.symlinks = false;
     let manageExternal = external => (context, request, callback) => {
